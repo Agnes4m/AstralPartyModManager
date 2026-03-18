@@ -2,15 +2,20 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-8.0+-purple.svg)](https://dotnet.microsoft.com/download/dotnet)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Agnes4m/AstralPartyModManager/releases)
 
 为 Unity 引擎游戏《星引擎》(Astral Party) 开发的开源 Mod 管理工具。
+
+---
+
+🛑本项目未测试完成，等待后续更新。
 
 ---
 
 ## 快速开始
 
 ### 下载
-从 [Releases](https://github.com/YOUR_USERNAME/AstralPartyModManager/releases) 下载最新版本
+从 [Releases](https://github.com/Agnes4m/AstralPartyModManager/releases) 下载最新版本
 
 ### 安装
 1. 解压到游戏根目录的 `AstralPartyModManager` 文件夹
@@ -42,7 +47,6 @@ AstralPartyModManager/
 └── README.md               # 本文件
 
 mods/                       # Mod 文件夹（游戏目录）
-├── 汉娜/                   # 原始 Mod
 ├── 汉娜语音替换凛 [标准格式]/ # 标准格式 Mod
 └── 星引擎加速插件 [标准格式]/
 ```
@@ -92,15 +96,11 @@ dotnet run --project src
 }
 ```
 
-完整文档请查看 `docs/` 目录。
-
----
-
 ## 参与贡献
 
-- 报告问题：[Issues](https://github.com/YOUR_USERNAME/AstralPartyModManager/issues)
-- 功能建议：[Discussions](https://github.com/YOUR_USERNAME/AstralPartyModManager/discussions)
-- 提交代码：[Pull Requests](https://github.com/YOUR_USERNAME/AstralPartyModManager/pulls)
+- 报告问题：[Issues](https://github.com/Agnes4m/AstralPartyModManager/issues)
+- 功能建议：[Discussions](https://github.com/Agnes4m/AstralPartyModManager/discussions)
+- 提交代码：[Pull Requests](https://github.com/Agnes4m/AstralPartyModManager/pulls)
 
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 

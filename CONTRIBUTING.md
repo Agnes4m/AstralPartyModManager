@@ -31,7 +31,7 @@
 ```bash
 # 1. Fork 本仓库
 # 2. 克隆到本地
-git clone https://github.com/YOUR_USERNAME/AstralPartyModManager.git
+git clone https://github.com/Agnes4m/AstralPartyModManager.git
 
 # 3. 创建功能分支
 git checkout -b feature/your-feature-name

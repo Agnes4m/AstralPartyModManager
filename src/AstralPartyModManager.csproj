@@ -8,6 +8,11 @@
     <AssemblyName>APmodManager</AssemblyName>
     <FileVersion>1.0.0.0</FileVersion>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Version>1.0.0</Version>
+    <Authors>Agnes4m</Authors>
+    <Product>AstralParty Mod Manager</Product>
+    <Description>星引擎 (Astral Party) 开源 Mod 管理工具</Description>
+    <Copyright>Copyright © 2026</Copyright>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     
     <!-- 发布配置 -->
